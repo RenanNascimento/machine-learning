@@ -1,7 +1,7 @@
 import numpy as np
 
 def split_train_test(data, test_ratio):
-    '''It splits your data into train and test set in a random way
+    '''It splits your data into train and test set using a random sampling method
 
     Parameters:
     data (DataFrame): your data
